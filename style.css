@@ -49,7 +49,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
    gap: 2px; 
-   height: 75%;
+   height: 65%;
    width: 100%;
 }
 .grid-container > button{
